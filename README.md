@@ -19,7 +19,7 @@ and it goes in a clockwise motion as shown below:
 |                           |                             |                            |
 WEST                        10                            18                        EAST
 |                           |                             |                            |
-|                           9                             19                           |
+|                           9            BUILDING         19                           |
 |                           |                             |                            |
 |                           8                             20                           |
 |                           |                             |                            |
