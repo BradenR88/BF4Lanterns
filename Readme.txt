@@ -28,9 +28,8 @@ WEST                        10                            18                    
 -------------------------------------SOUTH----------------------------------------------
 
 
-When all light information is entered in, (for the time being) The user will have to experiment with different combinations
-of buttons in order to turn all lanterns on. Pressing the button associated with the location will toggle the lantern state 
-at the bottom of the window. Again for the time being, the user will need to manually keep track of buttons being pressed.
+When all light information is entered in,The user will have to experiment with different combinations
+of buttons in order to turn all lanterns on(for the time being) . Pressing the button associated with the location will toggle the lantern state at the bottom of the window. Again for the time being, the user will need to manually keep track of buttons being pressed.
 When all lanterns are on, a message will appear Informing them that all are pressed.
 Then assuming all the information was input and calculated correctly, you can go around and press all the desired buttons in the game
 and then move on in the task of finding the special cammo.
